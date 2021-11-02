@@ -1,40 +1,48 @@
-baseURL: www.example.com
-languageCode: en-us
-title: Hugo Whisper Theme
-theme: hugo-whisper-theme
-pygmentsCodeFences: yes
-pygmentsCodefencesGuessSyntax: yes
-pygmentsUseClasses: yes
-module:
-  hugoVersion:
-    extended: yes
-    min: 0.55.0
-    summaryLength: 30
+baseurl: https://example.com
+title: Hugo Tanka Theme Demo
+author: Nan Xiao
+canonifyurls: yes
+languagecode: en
+theme: hugo-tanka
+enableEmoji: yes
+hasCJKLanguage: no
+pygmentsstyle: vs
+pygmentscodefences: yes
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+params:
+  faviconfile: images/favicon.png
+  highlightjs: yes
+  highlightjslanguages:
+    - r
+    - python
+    - stan
+  progressively: no
+  sitename: Hugo Tanka Theme
+  uselatex: yes
+markup:
+  goldmark:
+    renderer:
+      unsafe: yes
 menu:
   main:
     - name: Home
-      url: /
+      url: /docs/home
+  primary:
+    - name: Home
+      url: /docs/home
       weight: 1
-    - name: Docs
-      url: /docs/
+    - name: About
+      url: /about/
       weight: 2
-params:
-  google_analytics_id: ''
-  homepage_button_link: /docs
-  homepage_button_text: Read The Docs
-  homepage_image: /images/terminal.gif
-  homepage_intro: Whisper is a documentation theme built with Hugo. The design and
-    functionality is intentionally minimal.
-  homepage_meta_tags:
-    meta_description: Hugo Whisper is a documentation theme built with Hugo.
-    meta_og_description: Hugo Whisper is a documentation theme built with Hugo.
-    meta_og_image: https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png
-    meta_og_title: Hugo Whisper Theme
-    meta_og_type: website
-    meta_og_url: https://hugo-whisper.netlify.app
-    meta_twitter_card: summary
-    meta_twitter_creator: '@zerostaticio'
-    meta_twitter_site: '@zerostaticio'
-  logo:
-    mobile: /images/logo-mobile.svg
-    standard: /images/logo.svg
+    - name: Journal Articles
+      url: /docs/articles
+      weight: 2
+    - name: Open Data Products
+      url: /docs/open-data
+      weight: 2
+
