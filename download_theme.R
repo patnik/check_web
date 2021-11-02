@@ -1,4 +1,4 @@
-blogdown::new_site(theme = "nanxstats/hugo-tanka")
+blogdown::new_site(theme = "kaapiandcode/hugo-goa")
 
 
 blogdown::build_site()

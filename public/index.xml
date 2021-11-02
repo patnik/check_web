@@ -1,139 +1,100 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo Tanka Theme Demo</title>
-    <link>https://example.com/</link>
-    <description>Recent content on Hugo Tanka Theme Demo</description>
+    <title>Erlich Bachman</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/</link>
+    <description>Recent content on Erlich Bachman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 01 Nov 2021 10:49:34 +0100</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Project Overview</title>
-      <link>https://example.com/about/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>https://example.com/about/</guid>
-      <description>SALIENT Inequality is a major global challenge. Yet, understanding of the evolving spatial structure of inequalites at high levels of spatial resolution over time remains lacking.</description>
-    </item>
-    
-    <item>
-      <title>Research team</title>
-      <link>https://example.com/docs/research-team/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://example.com/docs/research-team/</guid>
-      <description>Nikos Patias Nikos Patias is a PhD student at the Geographic Data Science Lab at the University of Liverpool. He is currently working as a Policy Analyst at the Centre for Entrepreneurship, SMEs, Regions and Cities of the OECD. His research interests are: computational urban science, spatial inequalities and Geographic Information Science.
-Contact N.Patias@liverpool.ac.uk
-patnik.github.io
-@pat_nikos
-Dr. Francisco Rowe Francisco Rowe is a Senior Lecturer in Human Quantitative Geography at the Department of Geography and Planning within the University of Liverpool, lead of the Geographic Data Science Lab.</description>
-    </item>
-    
-    <item>
-      <title>Install Theme</title>
-      <link>https://example.com/docs/install-theme/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://example.com/docs/install-theme/</guid>
-      <description>Create a new Hugo site hugo new site mynewsiteThis will create a fresh Hugo site in the folder mynewsite.
-Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes
-Install with Git cd mynewsitecd themesgit clone https://github.com/jugglerx/hugo-whisper-theme.gitInstall from .zip file You can download the .zip file located here https://github.com/JugglerX/hugo-whisper-theme/archive/master.zip.
-Extract the downloaded .zip inside the themes folder. Rename the extracted folder from hugo-whisper-theme-master -&amp;gt; hugo-whisper-theme.</description>
-    </item>
-    
-    <item>
-      <title>Configuration</title>
-      <link>https://example.com/docs/configure/</link>
-      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
-      
-      <guid>https://example.com/docs/configure/</guid>
-      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
-    </item>
-    
-    <item>
-      <title>Specimen</title>
-      <link>https://example.com/docs/specimen/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://example.com/docs/specimen/</guid>
-      <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements   Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor. Aliquip et adipisicing sit sit fugiat commodo id sunt. Nostrud enim ad commodo incididunt cupidatat in ullamco ullamco Lorem cupidatat velit enim et Lorem.
-Heading two Aute officia nulla deserunt do deserunt cillum velit magna.</description>
-    </item>
-    
-    <item>
-      <title>Hugo Whisper</title>
-      <link>https://example.com/docs/example/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://example.com/docs/example/</guid>
-      <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>extRatum</title>
-      <link>https://example.com/docs/r-package/</link>
-      <pubDate>Mon, 01 Nov 2021 10:49:34 +0100</pubDate>
-      
-      <guid>https://example.com/docs/r-package/</guid>
-      <description>An R package that calculates summary indices for built environment characteristics.
-Overview extRatum is a package used to provide summary statistics of local geospatial features within a given geographic area. It does so by calculating the area covered by a target geospatial feature (i.e. buildings, parks, lakes, etc.). The geospatial features can be of any type of geospatial data, including point, polygon or line data. For examples of extRatum functionalities follow this link and for the package website this link.</description>
-    </item>
-    
-    <item>
-      <title>Interactive maps</title>
-      <link>https://example.com/docs/interactive-maps/</link>
-      <pubDate>Mon, 01 Nov 2021 10:48:58 +0100</pubDate>
-      
-      <guid>https://example.com/docs/interactive-maps/</guid>
-      <description> Temporal neighbourhood classification 1971-2011 Access here   Neighbourhood trajectories 1971-2011 Access here   Sustainable Urban Development Index (SUDI) Access here  </description>
-    </item>
-    
-    <item>
-      <title>Media</title>
-      <link>https://example.com/docs/media/</link>
-      <pubDate>Mon, 01 Nov 2021 10:48:49 +0100</pubDate>
-      
-      <guid>https://example.com/docs/media/</guid>
-      <description>CARTO Map of The Month: Trajectories of Neighbourhood Change Read the article here</description>
-    </item>
-    
+    <language>en-US</language>
+    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="https://shenoybr.github.io/hugo-goa-demo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Data Products</title>
-      <link>https://example.com/docs/open-data/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/open-data/</link>
       <pubDate>Mon, 01 Nov 2021 10:48:38 +0100</pubDate>
       
-      <guid>https://example.com/docs/open-data/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/open-data/</guid>
       <description>The outputs of the trajectories of neighbourhood socioeconomic change in Great Britain (197-2011) can be downloaded as a geopackage from CDRC website here</description>
     </item>
     
     <item>
       <title>Policy Briefs</title>
-      <link>https://example.com/docs/policy-briefs/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/policy-briefs/</link>
       <pubDate>Mon, 01 Nov 2021 10:48:10 +0100</pubDate>
       
-      <guid>https://example.com/docs/policy-briefs/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/policy-briefs/</guid>
       <description>Rowe, F., Patias, N., and Arribas-Bel, D. (2020). Policy brief: Neighbourhood change and trajectories of inequality in britain, 1971-2011 Access here</description>
     </item>
     
     <item>
       <title>Journal articles</title>
-      <link>https://example.com/docs/articles/</link>
+      <link>https://shenoybr.github.io/hugo-goa-demo/articles/</link>
       <pubDate>Mon, 01 Nov 2021 09:49:22 +0100</pubDate>
       
-      <guid>https://example.com/docs/articles/</guid>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/articles/</guid>
       <description>Patias, N., Rowe, F., and Cavazzi, S. (2020). A scalable analytical framework for spatio-temporal analysis of neighborhood change: A sequence analysis approach. Geospatial Technologies for Local and Regional Development, pages 223–241 https://doi.org/10.1007/978-3-030-14745-7_13
 Patias, N., Rowe, F. and Arribas-Bel, D. (2021), Trajectories of neighbourhood inequality in Britain: Unpacking inter-regional socioeconomic imbalances, 1971-2011. The Geographical Journal. Accepted Author Manuscript. https://doi.org/10.1111/geoj.12420
 Patias, N., Rowe, F., Cavazzi, S., and Arribas-Bel, D. (2021). Sustainable urban development indicators in Great Britain from 2001 to 2016.</description>
     </item>
     
     <item>
-      <title>SALIENT. Trajectories of Spatial Inequality</title>
-      <link>https://example.com/docs/home/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
+      <title>Hello R Markdown</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/blog/2020-12-01-r-rmarkdown/</link>
+      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
       
-      <guid>https://example.com/docs/home/</guid>
-      <description>Inequality is a major global challenge. Yet, understanding of the evolving spatial structure of inequalites at high levels of spatial resolution over time remains lacking.
-This website is dedicated to summarise the outputs of a project on spatial inequalities in Britain over a fourty-year period between 1971 and 2011. The project was funded by the UKRI (ESRC) and supported by the Ordnance Survey through the Data Analytics and Society Centre for Doctoral Training.</description>
+      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/2020-12-01-r-rmarkdown/</guid>
+      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
+    </item>
+    
+    <item>
+      <title>Hooli’s Hot New Hardware</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/blog/third/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/third/</guid>
+      <description>Note: This article originally appeared in CodeRag.
+When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/about/</guid>
+      <description>Erlich administers the Hacker Hostel, a tech incubator where Richard, Big Head, Dinesh, and Gilfoyle live and work in exchange for 10 percent of their potential businesses. Erlich clings to his glory days, when he sold aviation start-up Aviato, a move that, at least in his mind, qualifies him to be a svengali lording over other tech nerds. He still drives a car emblazoned with multiple Aviato logos and smokes copious amounts of weed.</description>
+    </item>
+    
+    <item>
+      <title>CodeRag</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/coderag/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/coderag/</guid>
+      <description>Notes: This article originally appeared in CodeRag.
+Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on.</description>
+    </item>
+    
+    <item>
+      <title>Gavin Belson</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/blog/first/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/first/</guid>
+      <description>Note: This article originally appeared in CodeRag.
+Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
+ He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries.</description>
+    </item>
+    
+    <item>
+      <title>Belson Back on Top</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/blog/second/</link>
+      <pubDate>Sat, 01 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/second/</guid>
+      <description>Note: This post originally appeared in CodeRag
+Gavin Belson’s brilliant leadership is unstoppable. While allegedly taking a personal hiatus from day-to-day operations at Hooli, Belson couldn’t resist brokering a blockbuster deal between Hooli and Maleant Data Systems, deploying Hooli’s innovative new Hooli/Endframe Box. The multi-year deal brings handsome margins for Hooli and can easily be a template to apply across the entire Fortune 1000. An inside source tells me that, no surprise, the board was no longer satisfied to let Belson fade into the background.</description>
     </item>
     
   </channel>

@@ -2,53 +2,94 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/about/</loc>
-    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
-  </url><url>
-    <loc>https://example.com/docs/</loc>
-    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
-  </url><url>
-    <loc>https://example.com/docs/research-team/</loc>
-    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
-  </url><url>
-    <loc>https://example.com/docs/install-theme/</loc>
-    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
-  </url><url>
-    <loc>https://example.com/docs/configure/</loc>
-    <lastmod>2019-02-11T19:30:08+10:00</lastmod>
-  </url><url>
-    <loc>https://example.com/docs/specimen/</loc>
-    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
-  </url><url>
-    <loc>https://example.com/docs/example/</loc>
-    <lastmod>2019-02-11T19:27:37+10:00</lastmod>
-  </url><url>
-    <loc>https://example.com/docs/r-package/</loc>
-    <lastmod>2021-11-01T10:49:34+01:00</lastmod>
-  </url><url>
-    <loc>https://example.com/docs/interactive-maps/</loc>
-    <lastmod>2021-11-01T10:48:58+01:00</lastmod>
-  </url><url>
-    <loc>https://example.com/docs/media/</loc>
-    <lastmod>2021-11-01T10:48:49+01:00</lastmod>
-  </url><url>
-    <loc>https://example.com/docs/open-data/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/open-data/</loc>
     <lastmod>2021-11-01T10:48:38+01:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/policy-briefs/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/policy-briefs/</loc>
     <lastmod>2021-11-01T10:48:10+01:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/articles/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/articles/</loc>
     <lastmod>2021-11-01T09:49:22+01:00</lastmod>
   </url><url>
-    <loc>https://example.com/</loc>
-    <lastmod>2021-11-01T10:49:34+01:00</lastmod>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/docs/home/</loc>
-    <lastmod>2018-11-28T15:14:39+10:00</lastmod>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/2020-12-01-r-rmarkdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/plot/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/r/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/r-markdown/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/regression/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/</loc>
+    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/belson/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/gavin/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/hooli/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/third/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/propaganda/</loc>
+    <lastmod>2016-10-03T16:59:13-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/about/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/about/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/about/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/articles/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/aviato/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/bachman/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/coderag/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/pied-piper/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/ad/</loc>
+    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/first/</loc>
+    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/hardware/</loc>
+    <lastmod>2016-10-02T15:59:13-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/second/</loc>
+    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
+  </url><url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/ceo/</loc>
+    <lastmod>2016-10-01T16:59:13-04:00</lastmod>
   </url>
 </urlset>
