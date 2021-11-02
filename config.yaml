@@ -41,3 +41,4 @@ markup:
   goldmark:
     renderer:
       unsafe: yes
+      
