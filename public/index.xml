@@ -1,69 +1,91 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Hugo website</title>
-    <link>/</link>
-    <description>Recent content on A Hugo website</description>
+    <title>Spatial inequalities</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Spatial inequalities</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 21:13:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Mon, 01 Nov 2021 10:49:34 +0100</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research team</title>
+      <link>https://example.com/projects/research-team/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://example.com/projects/research-team/</guid>
+      <description>Nikos Patias Nikos Patias is a PhD student at the Geographic Data Science Lab at the University of Liverpool. He is currently working as a Policy Analyst at the Centre for Entrepreneurship, SMEs, Regions and Cities of the OECD. His research interests are: computational urban science, spatial inequalities and Geographic Information Science.
+Contact N.Patias@liverpool.ac.uk
+patnik.github.io
+@pat_nikos
+Dr. Francisco Rowe Francisco Rowe is a Senior Lecturer in Human Quantitative Geography at the Department of Geography and Planning within the University of Liverpool, lead of the Geographic Data Science Lab.</description>
+    </item>
+    
+    <item>
+      <title>extRatum</title>
+      <link>https://example.com/projects/r-package/</link>
+      <pubDate>Mon, 01 Nov 2021 10:49:34 +0100</pubDate>
+      
+      <guid>https://example.com/projects/r-package/</guid>
+      <description>An R package that calculates summary indices for built environment characteristics.
+Overview extRatum is a package used to provide summary statistics of local geospatial features within a given geographic area. It does so by calculating the area covered by a target geospatial feature (i.e. buildings, parks, lakes, etc.). The geospatial features can be of any type of geospatial data, including point, polygon or line data. For examples of extRatum functionalities follow this link and for the package website this link.</description>
+    </item>
+    
+    <item>
+      <title>Interactive maps</title>
+      <link>https://example.com/projects/interactive-maps/</link>
+      <pubDate>Mon, 01 Nov 2021 10:48:58 +0100</pubDate>
+      
+      <guid>https://example.com/projects/interactive-maps/</guid>
+      <description> Temporal neighbourhood classification 1971-2011 Access here   Neighbourhood trajectories 1971-2011 Access here   Sustainable Urban Development Index (SUDI) Access here  </description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>https://example.com/projects/media/</link>
+      <pubDate>Mon, 01 Nov 2021 10:48:49 +0100</pubDate>
+      
+      <guid>https://example.com/projects/media/</guid>
+      <description>CARTO Map of The Month: Trajectories of Neighbourhood Change Read the article here</description>
+    </item>
+    
     <item>
       <title>Open Data Products</title>
-      <link>/open-data/</link>
+      <link>https://example.com/projects/open-data/</link>
       <pubDate>Mon, 01 Nov 2021 10:48:38 +0100</pubDate>
       
-      <guid>/open-data/</guid>
+      <guid>https://example.com/projects/open-data/</guid>
       <description>The outputs of the trajectories of neighbourhood socioeconomic change in Great Britain (197-2011) can be downloaded as a geopackage from CDRC website here</description>
     </item>
     
     <item>
+      <title>Policy Briefs</title>
+      <link>https://example.com/projects/policy-briefs/</link>
+      <pubDate>Mon, 01 Nov 2021 10:48:10 +0100</pubDate>
+      
+      <guid>https://example.com/projects/policy-briefs/</guid>
+      <description>Rowe, F., Patias, N., and Arribas-Bel, D. (2020). Policy brief: Neighbourhood change and trajectories of inequality in britain, 1971-2011 Access here</description>
+    </item>
+    
+    <item>
       <title>Journal articles</title>
-      <link>/articles/</link>
+      <link>https://example.com/projects/articles/</link>
       <pubDate>Mon, 01 Nov 2021 09:49:22 +0100</pubDate>
       
-      <guid>/articles/</guid>
+      <guid>https://example.com/projects/articles/</guid>
       <description>Patias, N., Rowe, F., and Cavazzi, S. (2020). A scalable analytical framework for spatio-temporal analysis of neighborhood change: A sequence analysis approach. Geospatial Technologies for Local and Regional Development, pages 223–241 https://doi.org/10.1007/978-3-030-14745-7_13
 Patias, N., Rowe, F. and Arribas-Bel, D. (2021), Trajectories of neighbourhood inequality in Britain: Unpacking inter-regional socioeconomic imbalances, 1971-2011. The Geographical Journal. Accepted Author Manuscript. https://doi.org/10.1111/geoj.12420
 Patias, N., Rowe, F., Cavazzi, S., and Arribas-Bel, D. (2021). Sustainable urban development indicators in Great Britain from 2001 to 2016.</description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/2020/12/01/hello-r-markdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
+      <title>Salient</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Thu, 04 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/2020/12/01/hello-r-markdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.</description>
-    </item>
-    
-    <item>
-      <title>A Plain Markdown Post</title>
-      <link>/2016/12/30/a-plain-markdown-post/</link>
-      <pubDate>Fri, 30 Dec 2016 21:49:57 -0700</pubDate>
-      
-      <guid>/2016/12/30/a-plain-markdown-post/</guid>
-      <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
- You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
-    </item>
-    
-    <item>
-      <title>Lorem Ipsum</title>
-      <link>/2015/01/01/lorem-ipsum/</link>
-      <pubDate>Thu, 01 Jan 2015 13:09:13 -0600</pubDate>
-      
-      <guid>/2015/01/01/lorem-ipsum/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>https://example.com/about/</guid>
+      <description>Inequality is a major global challenge. Yet, understanding of the evolving spatial structure of inequalites at high levels of spatial resolution over time remains lacking.
+This website is dedicated to summarise the outputs of a project on spatial inequalities in Britain over a fourty-year period between 1971 and 2011. The project was funded by the UKRI (ESRC) and supported by the Ordnance Survey through the Data Analytics and Society Centre for Doctoral Training.</description>
     </item>
     
   </channel>

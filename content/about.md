@@ -1,6 +1,8 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
-title: About
+date: "2021-11-04"
+title: Salient
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+Inequality is a major global challenge. Yet, understanding of the evolving spatial structure of inequalites at high levels of spatial resolution over time remains lacking.
+
+This website is dedicated to summarise the outputs of a project on spatial inequalities in Britain over a fourty-year period between 1971 and 2011. The project was funded by the UKRI (ESRC) and supported by the Ordnance Survey through the Data Analytics and Society Centre for Doctoral Training. Grant reference number *ES/P000401/1*.
