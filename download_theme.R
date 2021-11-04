@@ -1,4 +1,4 @@
-blogdown::new_site(theme = "kaapiandcode/hugo-goa")
+blogdown::new_site()
 
 
 blogdown::build_site()

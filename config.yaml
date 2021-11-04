@@ -1,32 +1,43 @@
-baseurl: https://shenoybr.github.io/hugo-goa-demo/
-builddrafts: no
-canonifyurls: no
-languageCode: en-US
-contentdir: content
-layoutdir: layouts
-publishdir: public
-author: Erlich Bachman
-title: Erlich Bachman
-theme: hugo-goa
-disqusShortname: https-shenoybr-github-io-hugo-goa-demo
-googleAnalytics: XYZ
-enableRobotsTXT: yes
-params:
-  author: Spatial inequalities
-  dateformat: November 2, 2021
-  description: ADD smth.
-  
+baseurl: /
+languageCode: en-us
+title: A Hugo website
+theme: hugo-lithium
+googleAnalytics: ''
+disqusShortname: ''
+ignoreFiles:
+  - \.Rmd$
+  - \.Rmarkdown$
+  - _cache$
+  - \.knit\.md$
+  - \.utf8\.md$
+permalinks:
+  post: /:year/:month/:day/:slug/
 menu:
   main:
-    - identifier: articles
-      name: articles
-      url: /articles/
-      weight: 100
-    - identifier: open-data
-      name: open-data
-      url: /open-data/
-      weight: 200
-    - identifier: policy-briefs
-      name: policy-briefs
-      url: /policy-briefs/
-      weight: 300
+    - name: About
+      url: /about/
+    - name: Articles
+      url: /articles
+    - name: Open Data Products
+      url: /open-data
+params:
+  MathJaxCDN: //cdnjs.cloudflare.com/ajax/libs
+  MathJaxVersion: 2.7.5
+  description: A website built through Hugo and blogdown.
+  favicon: favicon.ico
+  highlightjsCDN: //cdnjs.cloudflare.com/ajax/libs
+  highlightjsLang:
+    - r
+    - yaml
+  highlightjsTheme: github
+  highlightjsVersion: 9.12.0
+  logo:
+    alt: Logo
+    height: 50
+    url: logo.png
+    width: 50
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: yes
